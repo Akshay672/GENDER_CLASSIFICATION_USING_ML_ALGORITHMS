@@ -21,3 +21,5 @@ lipsthin - This column contains 0's and 1's where 1 represents the "thin lips" w
 distancenosetoliplong - This column contains 0's and 1's where 1 represents the "long distance between nose and lips" while 0 is "short distance between nose and lips".
 
 gender - This is either "Male" or "Female".
+
+Dataset URL: <a href="https://www.kaggle.com/elakiricoder/gender-classification-dataset">Link</a>
